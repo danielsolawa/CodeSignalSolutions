@@ -1,2 +1,2 @@
 # CodeSignalSolutions
-My solutions for Code Signal problems.
+My solutions to Code Signal problems.
