@@ -9,9 +9,7 @@ namespace CodeSignalSolutions
         static void Main(string[] args)
         {
 
-
         }
-
 
     }
 }
