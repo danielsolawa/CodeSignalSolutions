@@ -1,6 +1,8 @@
+using System;
+
 namespace CodeSignalSolutions.Solutions
 {
-    public class DayOfWeek
+    public class DayOfWeekSolution
     {
         int dayOfWeek(string birthdayDate)
         {
