@@ -8,19 +8,19 @@ namespace CodeSignalSolutions
     {
         static void Main(string[] args)
         {
-            var d = "2016-08-26 22:40";
-            var d1 = "2016-08-29 10:00";
+            // var d = "2016-08-26 22:40";
+            // var d1 = "2016-08-29 10:00";
 
 
-            DateTime someTime = GetDateTime(d);
-            DateTime leavingTime = GetDateTime(d1);
+            // DateTime someTime = GetDateTime(d);
+            // DateTime leavingTime = GetDateTime(d1);
 
-            someTime = someTime.AddYears(-1 * (leavingTime.Year - someTime.Year));
-            someTime = someTime.AddMonths(-1 * (leavingTime.Month - someTime.Month));
-            someTime = someTime.AddDays(-1 * (leavingTime.Day - someTime.Day));
+            // someTime = someTime.AddYears(-1 * (leavingTime.Year - someTime.Year));
+            // someTime = someTime.AddMonths(-1 * (leavingTime.Month - someTime.Month));
+            // someTime = someTime.AddDays(-1 * (leavingTime.Day - someTime.Day));
 
-            someTime = someTime.AddHours(-1 * (leavingTime.Hour - someTime.Hour));
-            someTime = someTime.AddMinutes(-1 * (leavingTime.Minute - someTime.Minute));
+            // someTime = someTime.AddHours(-1 * (leavingTime.Hour - someTime.Hour));
+            // someTime = someTime.AddMinutes(-1 * (leavingTime.Minute - someTime.Minute));
 
         }
 
