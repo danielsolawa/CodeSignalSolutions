@@ -8,6 +8,7 @@ namespace CodeSignalSolutions
     {
         static void Main(string[] args)
         {
+
             // var d = "2016-08-26 22:40";
             // var d1 = "2016-08-29 10:00";
 
